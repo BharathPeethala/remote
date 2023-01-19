@@ -1,3 +1,6 @@
 [submodule "components"]
 	path = components
 	url = ./components
+[submodule "remote"]
+	path = remote
+	url = https://github.com/BharathPeethala/remote.git
